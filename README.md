@@ -1,3 +1,21 @@
+# BIOMD0000000019: BIOMD0000000019
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000019.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000019.git@20140916`
+
+
+# Model Notes
 
 
 Schoeberl2002 - EGF MAPK
@@ -93,4 +111,5 @@ rights to this encoded model have been dedicated to the public domain
 worldwide. Please refer to [CC0 Public Domain
 Dedication](http://creativecommons.org/publicdomain/zero/1.0/) for more
 information.
+
 
